@@ -1,0 +1,30 @@
+
+body{
+    background-color: burlywood;
+    margin: 0;
+}
+.header{
+    background-color: cornsilk; 
+}
+.contenido{
+    background-color: darkcyan;
+}
+.pie{
+    background-color: deepskyblue;
+}
+.apartado{
+    background-color: lightsalmon;
+}
+div p img, video, iframe{
+    max-width: 50%;
+    width: fit-content;
+}
+table{
+    border: 1px solid black;
+    width: 100%;
+    border-collapse: collapse;
+}
+th, tr, td{
+    border: 1px solid black;
+}
+
